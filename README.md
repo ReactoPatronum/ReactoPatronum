@@ -1,7 +1,7 @@
 # 💫 About Me:
 😀Merhaba Ben Emre.
-🌱Teknoloji dünyasındaki hızlı değişikliklere ayak uydurmayı ve sürekli yeni şeyler öğrenmeyi seviyorum. Frontend geliştirmeyle ilgili en son trendleri takip ediyor ve bunları projelerime entegre etmeye çalışıyorum.
-⚡GitHub profilimde, geliştirdiğim projelerin yanı sıra bazı Frontend örneklerini de paylaşıyorum.
+🌱Teknoloji dünyasındaki hızlı değişikliklere ayak uydurmayı ve sürekli yeni şeyler öğrenmeyi seviyorum. Web ile ilgili en son trendleri takip ediyor ve bunları projelerime entegre etmeye çalışıyorum.
+⚡GitHub profilimde, geliştirdiğim projelerin yanı sıra bazı kod örneklerini de paylaşıyorum.
 🤝Bana ulaşmak veya işbirliği yapmak isterseniz, GitHub üzerinden veya emrekaydin2@gmail.com adresim üzerinden bana ulaşabilirsiniz!
 
 
